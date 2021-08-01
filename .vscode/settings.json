@@ -1,0 +1,23 @@
+{
+    "files.exclude": {
+    "node_modules": true,
+    "__tests__": true,
+    "android": true,
+    "ios": true,
+    ".buckconfig": true,
+    ".editorconfig": true,
+    ".eslintrc.js": true,
+    ".flowconfig": true,
+    ".gitattributes": true,
+    ".prettierrc.js": true,
+    ".watchmanconfig": true,
+    "app.json": true,
+    "babel.config.js": true,
+    ".gitignore":true,
+    "package.json":true,
+    "package-lock.json":true,
+    "yarn.lock":true,
+    "README.md":true,
+    ".vscode":false,
+    }
+}
